@@ -1,4 +1,4 @@
-**Hint 01:** `Some things are hidden too deep inside for the naked eye to see and the naked ear to hear.`
+**Hint 01:** `Some things are hidden too deep inside for the naked eye to see or the naked ear to hear.`
 
 
 
