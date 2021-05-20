@@ -2,7 +2,7 @@
 
 **Hint 02** `Did you know the greek word 'steganós' means covered or concealed?`
 
-
+**Hint 03** `Did you know Johann Heidenberg had considerable influence on the development of early modern and modern occultism?`
 
 
 
