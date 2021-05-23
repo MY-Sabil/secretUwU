@@ -7,4 +7,4 @@
 
 
 
-*If no one finishes this one a new hint will be given after 24 hours starting from the upload time of the video.*
+*If no one finishes this one a new hint will be given after every 3 days starting from the upload time of the video.*
